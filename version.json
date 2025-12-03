@@ -1,5 +1,13 @@
 {
-  "versionCode": 3,
-  "log": "【3.0版本更新】\n1. 新增记忆命途角色：阿格莱雅\n2. 新增同协命途角色：星期日\n3. 新增光锥：将光阴织成黄金",
-  "url": "https://cdn.jsdelivr.net/gh/starmaster-haojiaqi/starmaster@main/data.json"
+  "app": {
+    "versionCode": 100,
+    "versionName": "1.0.0",
+    "log": "StarMaster 正式版 1.0.0 发布！\n1. 全新 UI 架构\n2. 支持数据热更新",
+    "url": "" 
+  },
+  "data": {
+    "versionCode": 3,
+    "log": "【数据补丁 v3】\n1. 新增角色：阿格莱雅、星期日\n2. 新增光锥：将光阴织成黄金",
+    "url": "https://cdn.jsdelivr.net/gh/starmaster-haojiaqi/starmaster@main/data.json"
+  }
 }
