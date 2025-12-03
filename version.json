@@ -5,9 +5,9 @@
     "log": "StarMaster 正式版 1.0.0 发布！\n1. 全新 UI 架构\n2. 支持数据热更新",
     "url": "" 
   },
-  "data": {
-    "versionCode": 3,
-    "log": "【数据补丁 v3】\n1. 新增角色：阿格莱雅、星期日\n2. 新增光锥：将光阴织成黄金",
-    "url": "https://cdn.jsdelivr.net/gh/starmaster-haojiaqi/starmaster@main/data.json"
-  }
+ "data": {
+  "versionCode": 4,  <-- 改成 4
+  "log": "【数据补丁 v4】\n测试热更新推送功能",
+  "url": "..."
+}
 }
