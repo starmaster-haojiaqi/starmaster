@@ -6,7 +6,7 @@
     "url": "" 
   },
  "data": {
-  "versionCode": 4,  <-- 改成 4
+  "versionCode": 4,  
   "log": "【数据补丁 v4】\n测试热更新推送功能",
   "url": "..."
 }
