@@ -5,9 +5,9 @@
     "log": "StarMaster 正式版 1.0.0 发布！\n1. 全新 UI 架构\n2. 支持数据热更新",
     "url": "" 
   },
- "data": {
-  "versionCode": 5,  
-  "log": "【数据补丁 v5】\n记忆光锥数据",
-  "url": "..."
-}
+  "data": {
+    "versionCode": 5,  
+    "log": "【数据补丁 v5】\n记忆光锥数据",
+    "url": "https://raw.githubusercontent.com/starmaster-haojiaqi/starmaster/main/data.json"
+  }
 }
