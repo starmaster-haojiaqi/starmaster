@@ -6,8 +6,8 @@
     "url": "" 
   },
   "data": {
-    "versionCode": 5,  
-    "log": "【数据补丁 v5】\n记忆光锥数据",
+    "versionCode": 6,  
+    "log": "新增光锥图片测试",
     "url": "https://raw.githubusercontent.com/starmaster-haojiaqi/starmaster/main/data.json"
   }
 }
